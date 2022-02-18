@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="xKenPanel">
+    <output-path>$PROJECT_DIR$/out/artifacts/xKenPanel</output-path>
+    <root id="archive" name="xKenPanel.jar">
+      <element id="module-output" name="xKenPanel" />
+    </root>
+  </artifact>
+</component>

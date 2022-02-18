@@ -1,0 +1,14 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenPanel"
+
+# Tutaj mozna ustawic wiadomosc o braku permisji:
+brak_permisji: "&8>> &cNie masz dostepu do tej komendy!"
+
+# Tutaj mozna ustawic wiadomosc jesli ktos przekracza limit argumentow przy komendzie /spanel:
+to_many_arguments: "&8>> &cZa duza ilosc argumentow!"
+
+# Tutaj mozna ustalic nazwe dla Gui:
+gui_name: "&4&lPanel Zarzadzania"
+
+# Tutaj mozna wlaczyc/wylaczyc informacje o pluginie:
+plugin_info: true

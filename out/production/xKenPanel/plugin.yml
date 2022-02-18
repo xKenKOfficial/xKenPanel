@@ -1,0 +1,10 @@
+main: x.KenKOfficial.Panel.Main.Main
+version: 1.0-Beta
+name: xKenPanel
+author: xKenKOfficial
+description: Plugin autorstwa xKenKOfficial
+website: https://discord.gg/2HDuZrEFTg
+
+commands:
+  serverpanel:
+    aliases: [spanel, server-panel]
